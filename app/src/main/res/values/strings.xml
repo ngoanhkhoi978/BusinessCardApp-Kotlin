@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="name">Ngo Anh Khoi</string>
+    <string name="phone">0899882172</string>
+    <string name="link">\@khhoine</string>
+    <string name="mail">khoina.23ai@vku.udn.vn</string>
+    <string name="dev_extra">Android Developer Extraordimnaire</string>
+</resources>
